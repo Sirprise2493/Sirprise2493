@@ -137,12 +137,11 @@ GitHub READMEs can’t run real JavaScript sliders — but this feels like one: 
 ---
 
 ## 📈 Stats
-![Andi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sirprise2493&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=86400)
-
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirprise2493" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sirprise2493&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=86400" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sirprise2493" height="165" />
 </p>
+
 
 ---
 
