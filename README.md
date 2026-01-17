@@ -114,22 +114,14 @@ GitHub READMEs can’t run real JavaScript sliders — but this feels like one: 
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,html,css,postgres,python,java,cpp,git,github,linux&perline=7" />
 </p>
 
-### 📊 Skills (snapshot)
+### 📊 Skills
 
-**Ruby on Rails**  
-<img src="https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="Rails 90%" />
+![Rails](https://img.shields.io/badge/Rails-90%25-2F81F7?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![React](https://img.shields.io/badge/React-80%25-2F81F7?style=for-the-badge&logo=react&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-80%25-2F81F7?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-75%25-2F81F7?style=for-the-badge&logo=html5&logoColor=white)
+![Python/Java/C++](https://img.shields.io/badge/Python%2FJava%2FC%2B%2B-65%25-2F81F7?style=for-the-badge&logo=python&logoColor=white)
 
-**JavaScript / React**  
-<img src="https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="JS React 80%" />
-
-**SQL (PostgreSQL)**  
-<img src="https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="SQL 80%" />
-
-**HTML / CSS**  
-<img src="https://geps.dev/progress/75?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="HTML CSS 75%" />
-
-**Python / Java / C++**  
-<img src="https://geps.dev/progress/65?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="Python Java C++ 65%" />
 
 
 ---
