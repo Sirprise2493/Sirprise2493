@@ -114,23 +114,23 @@ GitHub READMEs can’t run real JavaScript sliders — but this feels like one: 
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,html,css,postgres,python,java,cpp,git,github,linux&perline=7" />
 </p>
 
-### 📊 Skills (clean progress bars)
-> Just a practical snapshot — not “levels”, just where I feel strongest.
+### 📊 Skills (snapshot)
 
-**Ruby on Rails**
-<progress value="90" max="100"></progress>
+**Ruby on Rails**  
+<img src="https://geps.dev/progress/90?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="Rails 90%" />
 
-**JavaScript / React**
-<progress value="80" max="100"></progress>
+**JavaScript / React**  
+<img src="https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="JS React 80%" />
 
-**SQL (PostgreSQL)**
-<progress value="80" max="100"></progress>
+**SQL (PostgreSQL)**  
+<img src="https://geps.dev/progress/80?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="SQL 80%" />
 
-**HTML / CSS**
-<progress value="75" max="100"></progress>
+**HTML / CSS**  
+<img src="https://geps.dev/progress/75?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="HTML CSS 75%" />
 
-**Python / Java / C++**
-<progress value="65" max="100"></progress>
+**Python / Java / C++**  
+<img src="https://geps.dev/progress/65?dangerColor=ff0000&warningColor=ff9900&successColor=2F81F7" alt="Python Java C++ 65%" />
+
 
 ---
 
