@@ -1,5 +1,5 @@
 <!-- ============================
-  GitHub Profile README for:
+  GitHub Profile README
   Andi Messingschlager (Sirprise2493)
   ============================ -->
 
@@ -31,28 +31,27 @@ I like building products that feel calm, useful, and reliable — the kind you�
 
 Right now I’m looking for a **Full Stack role in Germany (Hybrid)** where I can work balanced across **backend + frontend** and ship features end-to-end.
 
-- 🧠 I enjoy the “hard parts”: architecture, debugging, reliability
-- 🤝 Team-first, feedback-friendly (I’ve led a 4-person dev team)
-- 🛠️ I ship with empathy: for users *and* future developers
+- 🧠 I enjoy the “hard parts”: architecture, debugging, reliability  
+- 🤝 Team-first, feedback-friendly (I’ve led a 4-person dev team)  
+- 🛠️ I ship with empathy: for users *and* future developers  
 
 ---
 
 ## 🎯 What I’m looking for
 - **Role:** Junior / Entry Full Stack Developer  
 - **Work style:** **DE — Hybrid**  
-- **Focus:** Rails + Hotwire + React + SQL  
-- **Bonus:** AI integrations, real users, teams that ship
+- **Focus:** Rails + React + SQL  
+- **Bonus:** AI integrations, real users, teams that ship  
 
 ---
 
-## 📌 Featured (Pinned) Projects
-These are the 3 repos I pin on my GitHub profile:
-
-1) **🍃 SoberPath** — AI + community support web app (live)  
-2) **🗨️ Plauder** — mobile-first social chat (in progress)  
-3) **🏠 AirBnB Clone** — classic full stack project (learning + fundamentals)
-
-> Tip: Pin them via your GitHub profile → “Customize your pins”.
+## 📌 Pinned Projects
+- 🍃 **SoberPath** — AI + community support web app (**live**)  
+  → https://sober-path.com  
+- 🗨️ **Plauder** — mobile-first social chat (**in progress**)  
+  → https://github.com/Sirprise2493/plauder  
+- 🏠 **AirBnB Clone** — full stack fundamentals  
+  → https://github.com/Sirprise2493/AirBnB  
 
 ---
 
@@ -64,67 +63,74 @@ These are the 3 repos I pin on my GitHub profile:
 I was **Team Lead** in a 4-person team and owned most of the **server-side implementation**.
 
 **What I built / owned**
-- 📝 **AI-assisted journal** (OpenAI integration)
-- 💬 **Chat area with AI connection**
-- 🗺️ **Discover real-life meetings** via location-based features
-- 🧯 Stabilized a fragile **AI image generation** section by root-cause analysis
+- 📝 **AI-assisted journal** (OpenAI integration)  
+- 💬 **Chat area with AI connection**  
+- 🗺️ **Discover real-life meetings** via location-based features  
+- 🧯 Stabilized a fragile **AI image generation** section by root-cause analysis  
 
 **Tech Stack (clean + readable)**
 - **Backend:** Ruby on Rails • PostgreSQL  
-- **Frontend:** Hotwire (Turbo + Streams) • Stimulus • SCSS  
+- **Frontend:** Stimulus • SCSS (and modern JS where needed)  
 - **Realtime:** WebSockets • Turbo Streams  
 - **AI:** OpenAI API  
-- **Shipping:** Product MVP mindset + team delivery
 
 ---
 
-## 🖼️ Screenshots / Demo
-> Replace the image URLs below with your own (instructions further down).
+## 🖼️ Screenshots (GitHub-safe “slider”)
+GitHub READMEs can’t run real JavaScript sliders — but this feels like one: **click to expand** 👇
 
-<p align="center">
-  <img src="YOUR_IMAGE_URL_1" width="32%" alt="SoberPath Screenshot 1" />
-  <img src="YOUR_IMAGE_URL_2" width="32%" alt="SoberPath Screenshot 2" />
-  <img src="YOUR_IMAGE_URL_3" width="32%" alt="SoberPath Screenshot 3" />
-</p>
+<details>
+  <summary><b>📸 Open SoberPath gallery</b> (click)</summary>
+  <br />
 
-<!-- Optional: clickable "gallery" row -->
+  <p align="center">
+    <img src="assets/soberpath-1.png" width="85%" alt="SoberPath Screenshot 1" />
+  </p>
+
+  <p align="center">
+    <img src="assets/soberpath-2.png" width="85%" alt="SoberPath Screenshot 2" />
+  </p>
+
+  <p align="center">
+    <img src="assets/soberpath-3.png" width="85%" alt="SoberPath Screenshot 3" />
+  </p>
+
+  <p align="center">
+    <sub>Tip: Replace with .jpg/.png filenames exactly as in <code>assets/</code>.</sub>
+  </p>
+</details>
+
+<!-- Optional: compact preview row -->
 <p align="center">
-  <a href="YOUR_IMAGE_URL_1">Screenshot 1</a> ·
-  <a href="YOUR_IMAGE_URL_2">Screenshot 2</a> ·
-  <a href="YOUR_IMAGE_URL_3">Screenshot 3</a>
+  <img src="assets/soberpath-1.png" width="32%" alt="SoberPath Preview 1" />
+  <img src="assets/soberpath-2.png" width="32%" alt="SoberPath Preview 2" />
+  <img src="assets/soberpath-3.png" width="32%" alt="SoberPath Preview 3" />
 </p>
 
 ---
 
 ## 🧰 Tech Stack (what I actually use)
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,html,css,postgres,sqlite,python,java,cpp,git,github,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,html,css,postgres,python,java,cpp,git,github,linux&perline=7" />
 </p>
 
-### 🟦 Skill Cards
-<p align="center">
-  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-Backend%20%7C%20APIs%20%7C%20Auth-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hotwire-Turbo%20%7C%20Streams%20%7C%20Stimulus-111?style=for-the-badge&logo=hotwire&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-UI%20%7C%20Components%20%7C%20State-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20Data%20Modeling-0f172a?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+### 📊 Skills (clean progress bars)
+> Just a practical snapshot — not “levels”, just where I feel strongest.
 
-### 📊 “Progress Bars” (playful snapshot)
-**Rails / Ruby**  
-██████████████████░░ 90%
+**Ruby on Rails**
+<progress value="90" max="100"></progress>
 
-**JavaScript / React**  
-████████████████░░░░ 80%
+**JavaScript / React**
+<progress value="80" max="100"></progress>
 
-**Hotwire (Turbo/Stimulus)**  
-████████████████░░░░ 80%
+**SQL (PostgreSQL)**
+<progress value="80" max="100"></progress>
 
-**SQL (PostgreSQL)**  
-████████████████░░░░ 80%
+**HTML / CSS**
+<progress value="75" max="100"></progress>
 
-**Python / Java / C++**  
-█████████████░░░░░░░ 65%
+**Python / Java / C++**
+<progress value="65" max="100"></progress>
 
 ---
 
@@ -148,6 +154,6 @@ I was **Team Lead** in a 4-person team and owned most of the **server-side imple
 
 ## 🤝 Let’s connect
 - 💼 **LinkedIn:** https://www.linkedin.com/in/andi-messingschlager-full-stack-developer/  
-- 📬 **Email:** andi.webdes@gmail.com
+- 📬 **Email:** andi.webdes@gmail.com  
 
 <sub>✨ Built with curiosity, caffeine, and a stubborn love for shipping.</sub>
