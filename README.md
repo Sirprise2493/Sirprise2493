@@ -24,6 +24,11 @@
 </p>
 
 ---
+## 🐍 Contribution Snake (animated)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sirprise2493/Sirprise2493/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+---
 
 ## 🧩 About me (quick but real)
 I’m **Andi**, a **Full Stack Developer** and **Le Wagon Web Dev Bootcamp graduate**.  
@@ -143,12 +148,6 @@ GitHub READMEs can’t run real JavaScript sliders — but this feels like one: 
 </p>
 
 
----
-
-## 🐍 Contribution Snake (animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sirprise2493/Sirprise2493/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
